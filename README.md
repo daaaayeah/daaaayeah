@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=daaaayeah&hide=issues,contribs&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daaaayeah&layout=compact&exclude_repo=FOOTFOOT-DANCE)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daaaayeah&layout=compact&exclude_repo=FOOTFOOT-DANCE)](https://github.com/anuraghazra/github-readme-stats)
+-->
